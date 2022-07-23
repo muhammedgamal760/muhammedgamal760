@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="![](https://tenor.com/bVDvR.gif)/>
+  <img src="https://media.giphy.com/media/cst5AXzPxRLyIwMNsV/giphy.gif/>
 </div>
 
 <div align="center">
