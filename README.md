@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+  <img src="https://tenor.com/bVDvR.gif" width="100"/>
 </div>
 
 <div align="center">
@@ -7,4 +7,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-![gif](https://github.com/muhammedgamal760/muhammedgamal760/blob/master/gif/giphy.gif)
+<!-- ![gif](https://github.com/muhammedgamal760/muhammedgamal760/blob/master/gif/giphy.gif) -->
