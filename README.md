@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Devops GIF" width="500" height="400">
-</div>
+</p>
 
 <div align="center">
   <a href="www.linkedin.com/in/muhammed-gamall">
